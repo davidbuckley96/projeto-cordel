@@ -45,9 +45,12 @@ article{
 
 section{
     padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-bottom: 4vh;
 }
 
+article>p {
+    padding-bottom: 2.4em;
+}
 .branco{
     margin-left: 1em;
 }
