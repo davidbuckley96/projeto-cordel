@@ -15,7 +15,7 @@ header{
 }
 header>h1{
     font-family: 'Passion One', cursive;
-    font-size: 3em;
+    font-size: 10vw;
     font-variant: small-caps;
     text-align: center;
     padding-top: 0.4em;
@@ -38,8 +38,9 @@ header a:hover, footer a:hover{
 
 article{
     font-family: 'Sriracha', cursive;
-    font-size: 3.5em;
+    font-size: 4.5vw;
     line-height: 2em;
+    
 }
 
 section{
@@ -61,8 +62,8 @@ section{
 }
 #joaninha{
     background-color: rgba(0, 0, 0, 0.253);
-    width: 500px;
-    margin: 30px;
+    display: inline-block;
+    padding: 10px;
     color: white;
 }
 .papel{
@@ -74,9 +75,9 @@ section{
 }
 #papel{
     background-color: rgba(0, 0, 0, 0.253);
-    width: 400px;
+    display: inline-block;
     color: white;
-    
+    padding: 10px; 
 }
 
 footer{
